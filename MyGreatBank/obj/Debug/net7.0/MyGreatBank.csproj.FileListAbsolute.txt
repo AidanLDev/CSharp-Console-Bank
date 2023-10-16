@@ -1,0 +1,14 @@
+C:\Users\Aidan\Repos\MyGreatBank\MyGreatBank\bin\Debug\net7.0\MyGreatBank.exe
+C:\Users\Aidan\Repos\MyGreatBank\MyGreatBank\bin\Debug\net7.0\MyGreatBank.deps.json
+C:\Users\Aidan\Repos\MyGreatBank\MyGreatBank\bin\Debug\net7.0\MyGreatBank.runtimeconfig.json
+C:\Users\Aidan\Repos\MyGreatBank\MyGreatBank\bin\Debug\net7.0\MyGreatBank.dll
+C:\Users\Aidan\Repos\MyGreatBank\MyGreatBank\bin\Debug\net7.0\MyGreatBank.pdb
+C:\Users\Aidan\Repos\MyGreatBank\MyGreatBank\obj\Debug\net7.0\MyGreatBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aidan\Repos\MyGreatBank\MyGreatBank\obj\Debug\net7.0\MyGreatBank.AssemblyInfoInputs.cache
+C:\Users\Aidan\Repos\MyGreatBank\MyGreatBank\obj\Debug\net7.0\MyGreatBank.AssemblyInfo.cs
+C:\Users\Aidan\Repos\MyGreatBank\MyGreatBank\obj\Debug\net7.0\MyGreatBank.csproj.CoreCompileInputs.cache
+C:\Users\Aidan\Repos\MyGreatBank\MyGreatBank\obj\Debug\net7.0\MyGreatBank.dll
+C:\Users\Aidan\Repos\MyGreatBank\MyGreatBank\obj\Debug\net7.0\refint\MyGreatBank.dll
+C:\Users\Aidan\Repos\MyGreatBank\MyGreatBank\obj\Debug\net7.0\MyGreatBank.pdb
+C:\Users\Aidan\Repos\MyGreatBank\MyGreatBank\obj\Debug\net7.0\MyGreatBank.genruntimeconfig.cache
+C:\Users\Aidan\Repos\MyGreatBank\MyGreatBank\obj\Debug\net7.0\ref\MyGreatBank.dll
